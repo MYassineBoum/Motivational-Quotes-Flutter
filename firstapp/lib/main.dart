@@ -53,7 +53,10 @@ class _MyHomePageState extends State<MyHomePage> {
                 color: const Color.fromARGB(255, 48, 48, 48),
               )
             ),
-            SizedBox(height: 6.0),
+            SizedBox(
+              height: 2.0,
+              child: const DecoratedBox(decoration: const BoxDecoration(color: Color.fromARGB(255, 214, 217, 15)),),
+            ),
             Text(
               quote.author,
               style: TextStyle(
