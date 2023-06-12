@@ -1,2 +1,2 @@
 # Motivational-Quotes-Flutter
-My first mobile application, using Flutter (Dart).
+Motivational quotes application, using Flutter (Dart).
